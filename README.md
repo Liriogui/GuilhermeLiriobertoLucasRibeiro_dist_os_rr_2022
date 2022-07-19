@@ -5,9 +5,4 @@
   <p align="center">
    Projeto sobre Distro linux DEEPIN
 
- <h1 align="center">## GuilhermeLiriobertoLucasRibeiro_dist_os_rr_2022</h1>
-# Seminário relacionado a distro Linux (DEEPIN)
-
-//
-Demo
-
+ <h1 align="center">## GuilhermeLiriobertoLucasRibeiro_dist_os_rr_2022 ##</h1>
