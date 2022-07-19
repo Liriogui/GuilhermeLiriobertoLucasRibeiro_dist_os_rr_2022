@@ -1,9 +1,9 @@
 <p align="center">
  
-  <h1 align="center">Manjaro Linux</h1>
+  <h1 align="center">Deepin Linux</h1>
    
   <p align="center">
-    Analise da distribuição Manjaro Linux
+   Projeto sobre Distro linux DEEPIN
 
 ## GuilhermeLiriobertoLucasRibeiro_dist_os_rr_2022
 # Seminário relacionado a distro Linux (DEEPIN)
